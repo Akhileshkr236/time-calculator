@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Next.js build output
+/.next/
+/out/
+
+# Next.js cache
+/.next/cache
+
+# Vercel build output
+.vercel
+
+# Local environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Next.js static files
+/public/static
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# MacOS system files
+.DS_Store
+
+# Others
+*.log
+*.lock
+*.bak
+*.tmp
